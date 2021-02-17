@@ -1,0 +1,3 @@
+****************EJECUCION EN CONSOLA:
+
+java -jar IIS_SimuladorVirico-1.0-SNAPSHOT-jar-with-dependencies.jar

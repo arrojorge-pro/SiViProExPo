@@ -1,0 +1,16 @@
+********* Trabajo realizado por JORGE ARROJO para el departamento de INGENIERÍA DEL SOFTW. Y SIST. INFORMÁTICOS de la UNED
+*** CURSO 19/20 --
+SIMULADOR VÍRICO DE PROPAGACIÓN EXPONENCIAL (SIVIPRO_EX) ********************
+
+El archivo .rar contiene:
+
+/entrega/codificiacion --> Proyecto Netbeans
+			-> compilación .jar
+/entrega/diseño		-> documento en .pdf con el Documento de Diseño Arquitectónico
+
+/entrega/memoria	-> documento en .pdf con la memoria requierida en el enunciado
+
+
+
+*****************************************************************************
+******************Introducción a la Ingeniería de Software*******************
