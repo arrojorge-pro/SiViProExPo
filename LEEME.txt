@@ -4,11 +4,11 @@ SIMULADOR VÍRICO DE PROPAGACIÓN EXPONENCIAL (SIVIPRO_EX) ********************
 
 El archivo .rar contiene:
 
-/entrega/codificiacion --> Proyecto Netbeans
-			-> compilación .jar
-/entrega/diseño		-> documento en .pdf con el Documento de Diseño Arquitectónico
+/IIS_SimuladorVirico --> Código Fuente
+	
+/jar	             --> Codigo compilado en ejecutable java
 
-/entrega/memoria	-> documento en .pdf con la memoria requierida en el enunciado
+
 
 
 
